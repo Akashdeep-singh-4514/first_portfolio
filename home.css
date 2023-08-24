@@ -167,11 +167,14 @@
 }
 
 .skill-per.django {
-    width: 40%;
+    width: 30%;
 }
 
 .skill-per.DSA {
     width: 70%;
+}
+.skill-per.springboot {
+    width: 40%;
 }
 
 .skillrate {
@@ -180,18 +183,23 @@
 }
 
 .contact-name {
-    text-align: center;
+    /* text-align: center; */
     font-size: x-large;
     font-weight: 400;
 }
 
 .contact-icons {
     height: fit-content;
+    
 }
 .contact-icons:hover {
     height: fit-content;
     margin-top: -10px;
     margin-bottom: +10px;
+}
+.contact-images
+{
+    width: 40%;
 }
 
 @media only screen and (max-width:760px) {
