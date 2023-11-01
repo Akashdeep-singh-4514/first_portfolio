@@ -135,14 +135,14 @@
 }
 
 .skill-per.html {
-    width: 70%;
+    width: 60%;
 }
 
 .skill-per.css {
     width: 40%;
 }
 
-.skill-per.C {
+.skill-per.PostgreSQL {
     width: 50%;
 }
 
@@ -159,11 +159,11 @@
 }
 
 .skill-per.sql {
-    width: 70%;
+    width: 60%;
 }
 
 .skill-per.Js {
-    width: 10%;
+    width: 40%;
 }
 
 .skill-per.django {
